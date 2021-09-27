@@ -8,7 +8,7 @@ The purpose of this analysis is to find the total daily volume and yearly return
 
 2. Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-In 2017 https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge.xlsm, most of the stock return was positive except the TERP stock, but in 2018 https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge.xlsm , the most of the stock return was negative except the ENPH and RUN stocks. 
+In (VBA_Challege.xlsm)2017 https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge.xlsm, most of the stock return was positive except the TERP stock, but in 2018 https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge.xlsm , the most of the stock return was negative except the ENPH and RUN stocks. 
 
 
 However, the ENPH stock return was decreased from the 2017 return, but the RUN stock return was increased from the 2017 return. 
