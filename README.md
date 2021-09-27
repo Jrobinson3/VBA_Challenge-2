@@ -10,6 +10,7 @@ The purpose of this analysis is to find the total daily volume and yearly return
 
 In 2017 https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge.xlsm, most of the stock return was positive except the TERP stock, but in 2018 https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge.xlsm , the most of the stock return was negative except the ENPH and RUN stocks. 
 
+
 However, the ENPH stock return was decreased from the 2017 return, but the RUN stock return was increased from the 2017 return. 
 I would invest in the RUN stock since this stock return continues growing positively in the return analysis.  
 
