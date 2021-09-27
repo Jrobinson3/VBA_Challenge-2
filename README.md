@@ -13,7 +13,7 @@ In 2017 https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge.xl
 However, the ENPH stock return was decreased from the 2017 return, but the RUN stock return was increased from the 2017 return. 
 I would invest in the RUN stock since this stock return continues growing positively in the return analysis.  
 
-The execution times of the original VBS script are less than the execution times of the refactored script https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge_2017.PNG, https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge_2018.PNG since some portions (for loops) were not completed so the computer took less time to run the results. 
+The execution times of the original VBS script are less than the execution times of the refactored script ![This is an image](https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge_2017.PNG), ![This is an image](https://github.com/Jrobinson3/VBA_Challenge-2/blob/main/VBA_Challenge_2018.PNG) since some portions (for loops) were not completed so the computer took less time to run the results. 
  
 3. Summary: In a summary statement, address the following questions.
 1) What are the advantages or disadvantages of refactoring code? 
