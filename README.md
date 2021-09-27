@@ -23,7 +23,7 @@ The execution times of the original VBS script are less than the execution times
 Per Anarsolutions, https://anarsolutions.com/code-refactoring-concept-analysis/, the advantages of code refactoring are
 i) the code is more extensible, meaning many other functions can be added to it. it also helps in increasing the flexibility of the code and with this, the capability of code increases. 
 ii) the code is fresher and easier to understand or read, less complex and easier to maintain. 
-disadvantages of code factoring are
+Disadvantages of code factoring are
 i) time consuming.
 ii) higher chance of mistakes. if the code has an error, it will take more time to solve the problem. there is a stronger chance that the outcome may go wrong due to complexity of the code. 
 
